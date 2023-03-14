@@ -23,7 +23,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Meet-Landing-Page.gitm)
+- Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Meet-Landing-Page.git)
 - Live Site URL: [Live site URL here](https://nunuabuashvili.github.io/Meet-Landing-Page/)
 
 ## My process
